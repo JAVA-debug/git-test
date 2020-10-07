@@ -11,4 +11,8 @@ public class FirstClass {
         i += 10;
         System.out.println(i);
     }
+
+    public void adf(){
+        System.out.println("test");
+    }
 }
